@@ -1,0 +1,12 @@
+#Git initials- 
+
+git config --global user.email "srishtijais02@gmail.com"
+git config --global user.name "Srishti Jaiswal"
+
+#git push
+
+git add .
+git commit -m "My commit"
+git remote add origin git_repo_url
+git pull origin main
+git push origin main
